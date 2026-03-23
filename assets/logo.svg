@@ -1,36 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" fill="none">
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="icon-grad" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#3b82f6"/>
-      <stop offset="45%"  stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#8b5cf6"/>
-    </linearGradient>
-    <linearGradient id="text-grad" x1="0" y1="0" x2="100%" y2="0">
-      <stop offset="0%"   stop-color="#ffffff"/>
-      <stop offset="40%"  stop-color="#93c5fd"/>
-      <stop offset="75%"  stop-color="#67e8f9"/>
-      <stop offset="100%" stop-color="#c4b5fd"/>
+    <linearGradient id="zamaiGradient" x1="32" y1="32" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
     </linearGradient>
   </defs>
-
-  <!-- Icon mark -->
-  <rect width="44" height="44" rx="11" fill="url(#icon-grad)"/>
-  <text
-    x="22" y="32"
-    font-family="'Inter', system-ui, -apple-system, sans-serif"
-    font-size="26"
-    font-weight="900"
-    text-anchor="middle"
-    fill="#020617"
-  >Z</text>
-
-  <!-- Wordmark -->
-  <text
-    x="58" y="31"
-    font-family="'Inter', system-ui, -apple-system, sans-serif"
-    font-size="22"
-    font-weight="800"
-    letter-spacing="-0.5"
-    fill="url(#text-grad)"
-  >ZamAI</text>
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="#020617"/>
+  <rect x="28" y="28" width="200" height="200" rx="52" stroke="url(#zamaiGradient)" stroke-width="8"/>
+  <path d="M80 78H176V94L108 162H176V178H80V162L148 94H80V78Z" fill="url(#zamaiGradient)"/>
 </svg>
