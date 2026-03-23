@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" fill="none">
+  <defs>
+    <linearGradient id="icon-grad" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#3b82f6"/>
+      <stop offset="45%"  stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="40%"  stop-color="#93c5fd"/>
+      <stop offset="75%"  stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon mark -->
+  <rect width="44" height="44" rx="11" fill="url(#icon-grad)"/>
+  <text
+    x="22" y="32"
+    font-family="'Inter', system-ui, -apple-system, sans-serif"
+    font-size="26"
+    font-weight="900"
+    text-anchor="middle"
+    fill="#020617"
+  >Z</text>
+
+  <!-- Wordmark -->
+  <text
+    x="58" y="31"
+    font-family="'Inter', system-ui, -apple-system, sans-serif"
+    font-size="22"
+    font-weight="800"
+    letter-spacing="-0.5"
+    fill="url(#text-grad)"
+  >ZamAI</text>
+</svg>
