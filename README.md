@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Repo-zamai.github.io-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
   <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-1d4ed8?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Status-Live-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Live-0f766e?style=for-the-badge" alt="Status" />
 </p>
 
 ---
