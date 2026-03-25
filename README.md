@@ -6,6 +6,14 @@ Public website for ZamAI — home of Zeerak.
 - GitHub Pages: https://zamai-org.github.io (if applicable)
 
 
+# ZamAI Web
+
+Public website for ZamAI — home of Zeerak.
+
+- Live: https://zamai.dev
+- GitHub Pages: https://zamai-org.github.io (if applicable)
+
+
 # ZamAI
 
 <p align="center">
