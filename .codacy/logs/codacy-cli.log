@@ -1,0 +1,2 @@
+2026-03-26T23:23:49+04:30 [INFO] (codacy-cli-v2/cli-v2.go:27) Starting Codacy CLI version=1.0.0-main.372.sha.6351f2f (6351f2f) built at 2026-03-25T11:24:32Z
+2026-03-26T23:23:49+04:30 [INFO] (codacy-cli-v2/cmd/root.go:34) Executing CLI command full_command=[/Users/yaqoobtasal/Library/Caches/Codacy/codacy-cli-v2/1.0.0-main.372.sha.6351f2f/codacy-cli-v2 init --provider gh --organization ZamAI-ORG --repository zamai.github.io --api-token ***] args=[] command=init
